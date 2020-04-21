@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>New York</string>
+		<key>description</key>
+		<string>Welcome to New York City!</string>
+		<key>latitude</key>
+		<real>40.7128</real>
+		<key>longitude</key>
+		<real>-74.0059</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>San Francisco</string>
+		<key>description</key>
+		<string>Welcome to San Francisco!</string>
+		<key>latitude</key>
+		<real>37.7749</real>
+		<key>longitude</key>
+		<real>-122.4194</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Los Angeles</string>
+		<key>description</key>
+		<string>Welcome to Los Angeles!</string>
+		<key>latitude</key>
+		<real>34.0522</real>
+		<key>longitude</key>
+		<real>-118.2437</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>London</string>
+		<key>description</key>
+		<string>Welcome to  Casa Cruz!</string>
+		<key>latitude</key>
+		<real>51.5125242</real>
+		<key>longitude</key>
+		<real>-0.2161716</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>London</string>
+		<key>description</key>
+		<string>Welcome to Maida Hill!</string>
+		<key>latitude</key>
+		<real>51.5242619</real>
+		<key>longitude</key>
+		<real>-0.2039726</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>London</string>
+		<key>description</key>
+		<string>Welcome to Fudges Cyclestore!</string>
+		<key>latitude</key>
+		<real>51.5258243</real>
+		<key>longitude</key>
+		<real>-0.2061507</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>London</string>
+		<key>description</key>
+		<string>Welcome to Woodfield Road Medical Centre!
+!</string>
+		<key>latitude</key>
+		<real>51.5225263</real>
+		<key>longitude</key>
+		<real>-0.205818</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>London</string>
+		<key>description</key>
+		<string>Welcome to Lambeth!
+!</string>
+		<key>latitude</key>
+		<real>51.493157</real>
+		<key>longitude</key>
+		<real>-0.115105</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>London</string>
+		<key>description</key>
+		<string>Welcome to London Borough of Islington!
+!</string>
+		<key>latitude</key>
+		<real>51.540871</real>
+		<key>longitude</key>
+		<real>-0.109076</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Kentish Town</string>
+		<key>description</key>
+		<string>Welcome to London Borough of Camden!
+!</string>
+		<key>latitude</key>
+		<real>51.546326</real>
+		<key>longitude</key>
+		<real>-0.143677</real>
+	</dict>
+</array>
+</plist>
